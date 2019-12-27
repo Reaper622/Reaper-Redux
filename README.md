@@ -1,2 +1,3 @@
 # Reaper-Redux
-A tiny Redux
+手写 Redux
+
